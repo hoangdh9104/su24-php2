@@ -5,6 +5,9 @@
             "Admin\\BaseWeb\\": "src/"
         }
     },
+    "files": [
+        "helper.php"
+    ],
     "authors": [
         {
             "name": "hoangdh9104",
